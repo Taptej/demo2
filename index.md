@@ -1,4 +1,4 @@
-<!DOCTYPE html>      <!-- means this is an html file document -->
+
 <html lang="en" dir="ltr"> <!-- this html rag b/w opening & closing html tag means that everything b/w this is our html code -->
   <head>
     <meta charset="utf-8">
