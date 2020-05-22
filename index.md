@@ -50,8 +50,6 @@
        <hr>
        <h3>Skills</h3>
        <table cellspacing="5">
-         <thead>
-         <tbody>
          <tr>
            <td>Cpp</td>
            <td>**</td>
@@ -72,9 +70,7 @@
            <td>oil painting</td>
            <td>****</td>
          </tr>
-       </tbody>
        </table>
-
        <hr>
        <a href="hobbies.html">My Hobbies</a> <br>
        <a href = "My_contact.html">Contact Me Here </a>
