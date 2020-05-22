@@ -74,7 +74,6 @@
        <hr>
        <a href="hobbies.html">My Hobbies</a> <br>
        <a href = "My_contact.html">Contact Me Here </a>
-  </body>
-</html>
+ 
 
 <!-- head & body are parts of our html code -->
